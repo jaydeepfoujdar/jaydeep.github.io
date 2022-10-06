@@ -1,4 +1,4 @@
-baseurl = "https://jaydeepfoujdar/jaydeep.github.io/"
+baseurl = "https://jaydeepfoujdar.github.io/"
 languageCode = "en-US"
 title = "Jaydeep Foujdar"
 # Enable comments by entering your Disqus shortname
@@ -12,7 +12,7 @@ theme = "hugo-sustain"
 
 [params]
   avatar = "profile1.png"
-  author = "Jaydeep Foujdar"
+  author = "Dhaval Gujar"
   description = "Describe your website"
 
   # Custom assets can be linked with their paths relative to static/
@@ -20,9 +20,9 @@ theme = "hugo-sustain"
   custom_js  = []
 
 [params.social]
-  Github        = "jaydeepfoujdar"
-  Email         = "contact@jaydeep18.33mail.com"
-
+  Github        = "dhavalgujar"
+  Email         = "dhvlgjr@gmail.com"
+  Twitter       = "dhavalgujar"
 
 ## Main Menu
 [[menu.main]]
